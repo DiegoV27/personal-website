@@ -1,3 +1,21 @@
 body {
-    background: rgb(0, 195, 255);
+    background: rgb(0, 132, 255);
+  }
+  #header {
+    text-align: center;
+  }  
+  nav {
+    text-align: center;
+  }
+  nav a {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  #about-hobbies {
+    padding-top: 100px;
+    padding-left: 280px
+  }
+  #about-me {
+    padding-top: 80px;
+    padding-left: 280px;
   }
